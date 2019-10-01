@@ -1,0 +1,103 @@
+Imie i Nazwisko:
+
+Data:
+Klasa:
+
+                    Quiz stolic wojedzództw (Quiz 2)
+
+1. Co jest stolic¹ województwa opolskiego?
+    A. £ódz
+    B. Opole
+    C. Szczecin
+    D. Bydgoszcz
+
+2. Co jest stolic¹ województwa podkarpackiego?
+    A. Szczecin
+    B. Rzeszów
+    C. Wroc³aw
+    D. Olsztyn
+
+3. Co jest stolic¹ województwa dolnoœl¹skiego?
+    A. Gdañsk
+    B. Rzeszów
+    C. Wroc³aw
+    D. Szczecin
+
+4. Co jest stolic¹ województwa ³ódzkiego?
+    A. Bia³ystok
+    B. £ódz
+    C. Rzeszów
+    D. Olsztyn
+
+5. Co jest stolic¹ województwa mazowieckiego?
+    A. £ódz
+    B. Kraków
+    C. Lublin
+    D. Warszawa
+
+6. Co jest stolic¹ województwa pomorskiego?
+    A. Gdañsk
+    B. Poznañ
+    C. Opole
+    D. Kraków
+
+7. Co jest stolic¹ województwa lubeskiego?
+    A. Lublin
+    B. Kielce
+    C. Bydgoszcz
+    D. Szczecin
+
+8. Co jest stolic¹ województwa lubuskiego?
+    A. Gorzów Wielkopolski
+    B. Lublin
+    C. Warszawa
+    D. Opole
+
+9. Co jest stolic¹ województwa ma³opolskiego?
+    A. Gdañsk
+    B. Olsztyn
+    C. Katowice
+    D. Kraków
+
+10. Co jest stolic¹ województwa warmiñsko-mazurskiego?
+    A. Olsztyn
+    B. Gorzów Wielkopolski
+    C. Lublin
+    D. Kraków
+
+11. Co jest stolic¹ województwa œl¹skiego?
+    A. Opole
+    B. Poznañ
+    C. Katowice
+    D. Wroc³aw
+
+12. Co jest stolic¹ województwa kujawsko-pomorskiego?
+    A. Gorzów Wielkopolski
+    B. Bydgoszcz
+    C. Warszawa
+    D. Poznañ
+
+13. Co jest stolic¹ województwa œwiêtokrzyskiego?
+    A. Warszawa
+    B. Kielce
+    C. Wroc³aw
+    D. Lublin
+
+14. Co jest stolic¹ województwa zachodniopomorskiego?
+    A. Poznañ
+    B. Szczecin
+    C. Gorzów Wielkopolski
+    D. Kielce
+
+15. Co jest stolic¹ województwa wielkopolskiego?
+    A. Szczecin
+    B. £ódz
+    C. Poznañ
+    D. Warszawa
+
+16. Co jest stolic¹ województwa podlaskiego?
+    A. Wroc³aw
+    B. Poznañ
+    C. Bia³ystok
+    D. £ódz
+
